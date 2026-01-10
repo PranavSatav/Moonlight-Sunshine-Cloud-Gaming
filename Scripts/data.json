@@ -1,0 +1,15 @@
+{
+  "version": "2",
+  "users": {
+    "497944784": {
+      "role": "Admin",
+      "name": "admin",
+      "password": {
+        "salt": "e4934cf10eb26362be0f363cb366decb",
+        "hash": "e7d0279e974b09cf6790cdcc20d85bc78f384c07002aaeec6bac1c0418ad7cba"
+      },
+      "client_unique_id": "admin"
+    }
+  },
+  "hosts": {}
+}
