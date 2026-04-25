@@ -3,6 +3,7 @@
 This project documents a **fully working, browser-based remote desktop / game streaming setup** using:
 
 IMP - DOWNLOAD WORKING CODE FROM HERE - https://drive.google.com/file/d/1kQ6lNw1sUm8CZN4tZTVKo9VPbB7zi_dI/view?usp=sharing
+More Automated (new version) - https://drive.google.com/file/d/1BMQ7b1iIVRpa2qrNJ8seDFX0K2FHrYps/view?usp=sharing
 as file exceeds 25mb i can upload here...
 
 - **Sunshine** (host / streaming server)
